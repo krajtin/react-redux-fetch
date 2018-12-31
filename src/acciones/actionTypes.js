@@ -1,0 +1,1 @@
+export const VER_DATOS_FETCH = "VER_DATOS_FETCH";
